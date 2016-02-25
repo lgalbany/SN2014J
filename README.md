@@ -1,4 +1,4 @@
-# SN2014J - Optical INT and WHT spectra of SN 2014J
+# Optical INT and WHT spectra of SN 2014J
 
 ASCII files of all spectra of SN 2014J observed with INT and WHT, presented in Galbany et al. (2016).
 
